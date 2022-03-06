@@ -6,6 +6,7 @@
 
 ## Contents
 
+- [Back To Film School](#back-to-film-school)
 - [Grants](#grants)
 - [Film Community](#film-community)
 - [Film Events](#film-events)
@@ -26,6 +27,11 @@
 - [Accessibility Code Tools](#accessibility-code-tools)
 - [Linked Data](#linked-data)
 - [General Research & Data](#General-research-&-Data)
+
+## Back To Film School
+
+- [HDR Basics](https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/hdr-faq) So whats the deal with HDR? I mean first you had HD, now you have HDR, whats next? HDRQ? We're gonna run out of letters!
+- [ARRI and HDR](https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/hdr-faq)
 
 ## Grants
 - [SBS Content Initiatives](https://www.sbs.com.au/aboutus/content-initiatives)
