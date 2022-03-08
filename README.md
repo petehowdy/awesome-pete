@@ -10,6 +10,9 @@
 - [ ] Catalogue Github starred projects
 - [ ] Catalogue notes
 - [ ] 🌈 Make it a bit more fun! 🌈
+- [ ] Accessibility check
+- [ ] Metadata check
+- [ ] Properly credit sources and update license
 - [ ] Publish
 
 ## Contents
