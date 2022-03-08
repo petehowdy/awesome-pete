@@ -4,6 +4,14 @@
 <p>A bunch of my favourite resources that are specific to film or I find quite useful.</p>
 </div>
 
+- [x] Publish project on GitHub
+- [ ] Divide structure: Film / General
+- [ ] Catalogue bookmarks
+- [ ] Catalogue Github starred projects
+- [ ] Catalogue notes
+- [ ] 🌈 Make it a bit more fun! 🌈
+- [ ] Publish
+
 ## Contents
 
 - [Back To Film School](#back-to-film-school)
