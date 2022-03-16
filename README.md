@@ -50,15 +50,23 @@
 - [HDR Basics]() Short article on High Dynamic Range
 - [ARRI and HDR](https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/hdr-faq)
 
-### Grants
+### Funding
 
 - [SBS Content Initiatives](https://www.sbs.com.au/aboutus/content-initiatives)
+- [Generate - Development - Feature films - Funding and Support - Screen Australia](https://www.screenaustralia.gov.au/funding-and-support/feature-films/development/generate)
+- [Enterprise Support](https://helpx.adobe.com/contact/enterprise-support.html)
+- [Creative Victoria - Funding Rounds](https://grants.creative.vic.gov.au/Application/FundingRounds)
+- [Creative Exchange | Creative Victoria](https://creative.vic.gov.au/resources/creative-exchange)
+- [Business plans | business.gov.au](https://business.gov.au/planning/business-plans)
+- [5 Step Film Finance Strategy - Raindance](https://raindance.org/5-step-film-finance-strategy/)
+- [» Am I eligible for MATCH Lab?](https://creativepartnerships.gov.au/for-artists-and-arts-organisations/funding-programs/match/am-i-eligible-for-match-fundraising-support/)
 
 ### Community
 
 - [Ausfilm Membership | Ausfilm](https://www.ausfilm.com.au/membership/)
 
 ### Events
+- [Book Now | Siteworks](https://siteworks.checkfront.com/reserve/?action=clr&) Excellent creative space for hire
 
 ### Screen writing
 
@@ -67,6 +75,7 @@
 - [Unreal Engine Volume 1](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Unreal Engine Volume 2](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Virtual Production Documentation](https://github.com/petehow/vpdocs) How to correctly setup the Academy of Interactive Entertainment Virtual Production suite.
+- [Content Library](https://learn.unrealengine.com/home/library)
 
 ### ARRI Amiria
 
@@ -86,10 +95,12 @@
 ### Linked Data
 
 - [MovieLabs](https://github.com/MovieLabs)
+- [editEIDR - schema.org Property](https://schema.org/editEIDR)
 
 ### Research & Data
 
 - [IMDB Dataset](https://datasets.imdbws.com/)
+- [Feature film distribution - Emerging issues - Reports and key issues - Fact Finders - Screen Australia](https://www.screenaustralia.gov.au/fact-finders/reports-and-key-issues/emerging-issues/distribution)
 
 ### Festivals (Local)
 
@@ -104,10 +115,25 @@
 - [SBS Short Documentaries](https://www.sbs.com.au/news/the-feed/topic/short-docs)
 
 ### Film misc
-
+- [stingalleman/awesome-audiovisual: Curated list of audiovisual projects](https://github.com/stingalleman/awesome-audiovisual#readme)
 - [Pixar Open Timeline](https://github.com/PixarAnimationStudios/OpenTimelineIO)
-- [Awesome Video](https://github.com/krzemienski/awesome-video)
-- [10 Tips on Turning Your Short Film Into a Feature – IndieWire](https://www.google.com.au/amp/s/www.indiewire.com/2014/09/10-tips-on-turning-your-short-film-into-a-feature-22200/amp/)
+- [Awesome Video](https://github.com/krzemienski/awesome-video) An awesome list with resources that mostly relate to online video
+- [10 Tips on Turning Your Short Film Into a Feature – IndieWire](https://www.google.com.au/amp/s/www.indiewire.com/2014/09/10-tips-on-turning-your-short-film-into-a-feature-22200/amp/) Article
+- [Flying Arts Alliance - Art for Life](https://flyingarts.org.au/) Insurance
+
+## Artists/Works of interest
+- [Ceremor - Twitch](https://www.twitch.tv/ceremor)
+- [Angellis Taliuu](https://angellistaliuu.bandcamp.com/)
+- [About Me :: Lynette McClenaghan](http://www.lynettemcclenaghanauthor.com/about-me-lynette/)
+- [▶︎ A Gold Ring in a Pig's Snout | Shoshana Rosenberg | Tone List](https://tonelist.bandcamp.com/album/a-gold-ring-in-a-pigs-snout)
+- [Media - Judith Hamann](https://judith-hamann.com/Media)
+- [Louisa Weichmann | Gaslight](https://www.louisaweichmann.com/gaslight)
+- [Australian Women Horror Filmmakers Roundtable • Senses of Cinema](http://sensesofcinema.com/2016/beyond-the-babadook/australian-women-horror-filmmakers-roundtable/)
+- [The Lady from the Black Lagoon: Hollywood Monsters and the Lost Legacy of Milicent Patrick | IndieBound.org](https://www.indiebound.org/book/9781335937803?aff=NPR)
+- [A Robe of Feathers: And Other Stories by Thersa Matsuurahttps://www.goodreads.com › book › show › 5669170-...](https://www.goodreads.com/book/show/5669170-a-robe-of-feathers)
+- [Podcast – Natalie Erika James: making debut feature Relic | Screen News – Screen Australia](https://www.screenaustralia.gov.au/sa/screen-news/2020/07-08-podcast-natalie-erika-james)
+- [Music | Birocratic](https://birocratic.bandcamp.com/)
+- [Deadlock: New drama inspired by UK's 'Skins' draws on real life experience of Australian teens - ABC News](https://www.google.com/amp/amp.abc.net.au/article/10013134)
 
 ## General
 
