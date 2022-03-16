@@ -16,21 +16,22 @@
 - [ ] Publish
 
 ## Contents
-
+### Film
 - [Back To Film School](#back-to-film-school)
 - [Grants](#grants)
-- [Film Community](#film-community)
-- [Film Events](#film-events)
+- [Community](#film-community)
+- [Events](#film-events)
 - [Screen writing](#screen-writing)
 - [Virtual Production](#virtual-production)
 - [ARRI Amira](#arri-amira)
 - [Crew/Staff management](#crew/staff-management)
-- [Film Accessibility](#film-accessibility)
-- [Film Linked Data](#film-linked-data)
-- [Film Research & Data](#film-research-&-data)
+- [Accessibility](#film-accessibility)
+- [Linked Data](#film-linked-data)
+- [Research & Data](#film-research-&-data)
 - [Local Festivals](#local-festivals)
 - [International Festivals](#local-festivals)
-- [Film General](#film-general)
+- [Film misc](#film-general)
+### General
 - [Creative tools](#creative-tools)
 - [Writing tools](#writing-tools)
 - [eLearning](#eLearning)
