@@ -56,7 +56,7 @@
 
 ### Community
 
-- [Ausfilm Membership | Ausfilm](http://www.ausfilm.com.au/membership/
+- [Ausfilm Membership | Ausfilm](https://www.ausfilm.com.au/membership/)
 
 ### Events
 
