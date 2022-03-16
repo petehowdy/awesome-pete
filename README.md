@@ -5,9 +5,9 @@
 </div>
 
 - [x] Publish project on GitHub
-- [ ] Divide structure: Film / General
-- [ ] Catalogue bookmarks
-- [ ] Catalogue Github starred projects
+- [x] Divide structure: Film / General
+- [x] Catalogue bookmarks
+- [x] Catalogue Github starred projects
 - [ ] Catalogue notes
 - [ ] 🌈 Make it a bit more fun! 🌈
 - [ ] Accessibility check
@@ -16,6 +16,7 @@
 - [ ] Publish
 
 ## Contents
+
 ### Film
 - [Back To Film School](#back-to-film-school)
 - [Grants](#grants)
@@ -31,7 +32,9 @@
 - [Local Festivals](#local-festivals)
 - [International Festivals](#local-festivals)
 - [Film misc](#film-general)
+
 ### General
+
 - [Creative tools](#creative-tools)
 - [Writing tools](#writing-tools)
 - [eLearning](#eLearning)
@@ -40,64 +43,72 @@
 - [Linked Data](#linked-data)
 - [General Research & Data](#General-research-&-Data)
 
-## Back To Film School
+## Film
 
-- [HDR Basics](https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/hdr-faq) So whats the deal with HDR? I mean first you had HD, now you have HDR, whats next? HDRQ? We're gonna run out of letters!
+### Back to Film School
+
+- [HDR Basics]() Short article on High Dynamic Range
 - [ARRI and HDR](https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/hdr-faq)
 
-## Grants
+### Grants
+
 - [SBS Content Initiatives](https://www.sbs.com.au/aboutus/content-initiatives)
 
-## Film Community
+### Community
 
-## Film Events
+### Events
 
-## Screen writing
+### Screen writing
 
-## Virtual Production
+### Virtual Production
 
 - [Unreal Engine Volume 1](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Unreal Engine Volume 2](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Virtual Production Documentation](https://github.com/petehow/vpdocs) How to correctly setup the Academy of Interactive Entertainment Virtual Production suite.
 
-## ARRI Amiria
+### ARRI Amiria
 
-## Crew/Staff management
+### Crew/Staff management
 
 - [Creative Equity Toolkit](https://creativeequitytoolkit.org/)
 
-## Film Accessibility
+### Accessibility
 
 - [Accessibility for Arts](https://www.artshub.com.au/news/career-advice/accessibility-for-your-arts-project-artists-essentials-toolkit-9-2501288/)
 - [University of Melbourne Screen Industry Disability study](https://disability.unimelb.edu.au/home/projects/community-based-research-scheme/disability-justice-lens)
 
-## Film Linked Data
+### Linked Data
 
 - [MovieLabs](https://github.com/MovieLabs)
 
-## Film Research & Data
+### Research & Data
 
 - [IMDB Dataset](https://datasets.imdbws.com/)
 
-## Festivals (Local)
+### Festivals (Local)
 
-## Festivals (International)
+### Festivals (International)
+
+- [Top 100 Genre Film Festivals + Submission Tips [2020 Update] – Adrian Țofei – Filmmaker & Actor](https://adriantofei.com/writings/top-100-international-horror-film-festivals/)
 - [Sunny Side of the Doc](https://www.sunnysideofthedoc.com/home.htm)
 
-## Television or Online distribution
+### TV or Online distribution
+
 - [ABC iView Documentaries](https://iview.abc.net.au/category/docs)
 - [SBS Short Documentaries](https://www.sbs.com.au/news/the-feed/topic/short-docs)
 
-## Film General
+### Film misc
 
 - [Pixar Open Timeline](https://github.com/PixarAnimationStudios/OpenTimelineIO)
 - [Awesome Video](https://github.com/krzemienski/awesome-video)
 
-## Creative tools
+## General
+
+### Creative tools
 
 - [Chimera Painter](https://storage.googleapis.com/chimera-painter/index.html)
 
-## Writing tools
+### Writing tools
 
 - [Hemingway App](https://hemingwayapp.com/)
 - [Dictionaries](https://github.com/wooorm/dictionaries)
@@ -107,11 +118,11 @@
 - [Text Cleaner](https://github.com/textcleaner/textcleaner.github.io)
 - [React Autosuggest](https://github.com/moroshko/react-autosuggest)
 
-## eLearning
+### eLearning
 
 - [edX]() Free eLearns from leading universities
 
-## Accessibility Online
+### Accessibility Online
 
 - [Web content accessibility guidelines](https://github.com/w3c/wcag)
 - [W3C WIA Standards – AudioVisual](https://www.w3.org/WAI/media/av/)
@@ -119,19 +130,19 @@
 - [Adobe Inclusive Design Workshop](https://github.com/adobe-inclusive-design/id-workshop)
 - [NVDA Screen reader](https://github.com/nvaccess/nvda)
 
-## Accessibility code tools
+### Accessibility code tools
 
 - [React Say](https://github.com/compulim/react-say)
 - [React a11y](https://github.com/reactjs/react-a11y)
 - [Awesome a11y](https://github.com/brunopulis/awesome-a11y)
 - [tota11y](https://github.com/Khan/tota11y)
 
-## Linked Data
+### Linked Data
 
 - [React Schema Org](https://github.com/google/react-schemaorg)
 - [Awesome Semantic Web](https://github.com/semantalytics/awesome-semantic-web)
 
-## Research & Data – General
+### Research & Data – General
 
 - [Australian Beauro of Statistics Table Builder](https://tablebuilder.abs.gov.au/webapi/jsf/login.xhtml)
 - [Australian Beauro of Statistics Data](https://explore.data.abs.gov.au/)
