@@ -20,18 +20,18 @@
 ### Film
 - [Back To Film School](#back-to-film-school)
 - [Grants](#grants)
-- [Community](#film-community)
-- [Events](#film-events)
+- [Community](#community)
+- [Events](#events)
 - [Screen writing](#screen-writing)
 - [Virtual Production](#virtual-production)
 - [ARRI Amira](#arri-amira)
-- [Crew/Staff management](#crew/staff-management)
-- [Accessibility](#film-accessibility)
-- [Linked Data](#film-linked-data)
-- [Research & Data](#film-research-&-data)
+- [Crew/Staff management](#staff-management)
+- [Accessibility](#accessibility)
+- [Linked Data](#linked-data)
+- [Research & Data](#research-&-data)
 - [Local Festivals](#local-festivals)
 - [International Festivals](#local-festivals)
-- [Film misc](#film-general)
+- [Film misc](#general)
 
 ### General
 
@@ -56,6 +56,8 @@
 
 ### Community
 
+- [Ausfilm Membership | Ausfilm](http://www.ausfilm.com.au/membership/
+
 ### Events
 
 ### Screen writing
@@ -76,6 +78,10 @@
 
 - [Accessibility for Arts](https://www.artshub.com.au/news/career-advice/accessibility-for-your-arts-project-artists-essentials-toolkit-9-2501288/)
 - [University of Melbourne Screen Industry Disability study](https://disability.unimelb.edu.au/home/projects/community-based-research-scheme/disability-justice-lens)
+
+### Inclusivity
+
+- [Acknowledgement of Country | Creative Equity Toolkit](https://creativeequitytoolkit.org/topic/acknowledgement-of-country)
 
 ### Linked Data
 
@@ -101,6 +107,7 @@
 
 - [Pixar Open Timeline](https://github.com/PixarAnimationStudios/OpenTimelineIO)
 - [Awesome Video](https://github.com/krzemienski/awesome-video)
+- [10 Tips on Turning Your Short Film Into a Feature – IndieWire](https://www.google.com.au/amp/s/www.indiewire.com/2014/09/10-tips-on-turning-your-short-film-into-a-feature-22200/amp/)
 
 ## General
 
