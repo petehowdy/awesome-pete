@@ -78,10 +78,10 @@
 - [Content Library](https://learn.unrealengine.com/home/library)
 
 ### ARRI Amiria
-
-### Crew/Staff management
-
-- [Creative Equity Toolkit](https://creativeequitytoolkit.org/)
+- [Arri look library](https://microsites.arri.com/looklibrary)
+- [Frame Line & Lens Illumination Tool](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/frame-line-lens-illumination-tool)
+- [Formats and data rates](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/formats-and-data-rate-calculator)
+- [LUT generator](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/lut-generator)
 
 ### Accessibility
 
@@ -90,6 +90,7 @@
 
 ### Inclusivity
 
+- [Creative Equity Toolkit](https://creativeequitytoolkit.org/)
 - [Acknowledgement of Country | Creative Equity Toolkit](https://creativeequitytoolkit.org/topic/acknowledgement-of-country)
 
 ### Linked Data
