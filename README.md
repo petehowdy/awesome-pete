@@ -74,7 +74,7 @@
 
 - [Unreal Engine Volume 1](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Unreal Engine Volume 2](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
-- [Virtual Production Documentation](https://github.com/petehow/vpdocs) How to correctly setup the Academy of Interactive Entertainment Virtual Production suite.
+- [Virtual Production Documentation](https://github.com/petehow/vp-docs) How to correctly setup the Academy of Interactive Entertainment Virtual Production suite.
 - [Content Library](https://learn.unrealengine.com/home/library)
 
 ### ARRI Amiria
