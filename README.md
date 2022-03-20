@@ -8,6 +8,7 @@
 - [x] Divide structure: Film / General
 - [x] Catalogue bookmarks
 - [x] Catalogue Github starred projects
+- [ ] Add KNIME projects
 - [ ] Catalogue notes
 - [ ] 🌈 Make it a bit more fun! 🌈
 - [ ] Accessibility check
