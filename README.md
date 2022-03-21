@@ -74,6 +74,7 @@
 
 ### Virtual Production
 - [Unreal Engine Creators License](https://www.unrealengine.com/en-US/eula/creators)
+- [In Camera VFX](https://docs.unrealengine.com/4.27/en-US/WorkingWithMedia/IntegratingMedia/InCameraVFX/InCameraVFXQuickStart/)Unreal documentation
 - [Unreal Engine Volume 1](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Unreal Engine Volume 2](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Virtual Production Documentation](https://github.com/petehow/vp-docs) How to correctly setup the Academy of Interactive Entertainment Virtual Production suite.
