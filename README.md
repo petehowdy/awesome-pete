@@ -50,6 +50,7 @@
 
 - [HDR Basics]() Short article on High Dynamic Range
 - [ARRI and HDR](https://www.arri.com/en/learn-help/learn-help-camera-system/camera-workflow/image-science/hdr-faq)
+- [HDRI](https://www.jorgenhdri.com/explained) High Dynamic Range Images
 
 ### Funding
 
