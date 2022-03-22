@@ -88,6 +88,7 @@
 - [Content Library](https://learn.unrealengine.com/home/library)
 - [Unreal Engine Creators License](https://www.unrealengine.com/en-US/eula/creators)
 - [In Camera VFX](https://docs.unrealengine.com/4.27/en-US/WorkingWithMedia/IntegratingMedia/InCameraVFX/InCameraVFXQuickStart/)Unreal documentation
+- [YouTube Tutes](https://www.youtube.com/MathewWadsteinTutorials)
 
 ### ARRI Amiria
 
