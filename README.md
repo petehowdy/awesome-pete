@@ -10,6 +10,7 @@
 - [x] Catalogue Github starred projects
 - [ ] Add KNIME projects
 - [ ] Catalogue notes
+- [ ] Remove unnessary content
 - [ ] 🌈 Make it a bit more fun! 🌈
 - [ ] Accessibility check
 - [ ] Metadata check
@@ -19,6 +20,7 @@
 ## Contents
 
 ### Film
+
 - [Back To Film School](#back-to-film-school)
 - [Grants](#grants)
 - [Community](#community)
@@ -55,40 +57,46 @@
 ### Funding
 
 - [SBS Content Initiatives](https://www.sbs.com.au/aboutus/content-initiatives)
-- [Generate - Development - Feature films - Funding and Support - Screen Australia](https://www.screenaustralia.gov.au/funding-and-support/feature-films/development/generate)
-- [Enterprise Support](https://helpx.adobe.com/contact/enterprise-support.html)
+- [Generate Development Funding and Support - Screen Australia](https://www.screenaustralia.gov.au/funding-and-support/feature-films/development/generate)
+- [Adobe Enterprise Support](https://helpx.adobe.com/contact/enterprise-support.html)
 - [Creative Victoria - Funding Rounds](https://grants.creative.vic.gov.au/Application/FundingRounds)
 - [Creative Exchange | Creative Victoria](https://creative.vic.gov.au/resources/creative-exchange)
 - [Business plans | business.gov.au](https://business.gov.au/planning/business-plans)
 - [5 Step Film Finance Strategy - Raindance](https://raindance.org/5-step-film-finance-strategy/)
-- [» Am I eligible for MATCH Lab?](https://creativepartnerships.gov.au/for-artists-and-arts-organisations/funding-programs/match/am-i-eligible-for-match-fundraising-support/)
+- [Am I eligible for MATCH Lab?](https://creativepartnerships.gov.au/for-artists-and-arts-organisations/funding-programs/match/am-i-eligible-for-match-fundraising-support/)
 
 ### Community
 
 - [Ausfilm Membership | Ausfilm](https://www.ausfilm.com.au/membership/)
 
 ### Events
-- [Book Now | Siteworks](https://siteworks.checkfront.com/reserve/?action=clr&) Excellent creative space for hire
+
+- [Siteworks](https://siteworks.checkfront.com/reserve/?action=clr&) Excellent creative space for hire
 
 ### Screen writing
 
 ### Virtual Production
-- [Unreal Engine Creators License](https://www.unrealengine.com/en-US/eula/creators)
-- [In Camera VFX](https://docs.unrealengine.com/4.27/en-US/WorkingWithMedia/IntegratingMedia/InCameraVFX/InCameraVFXQuickStart/)Unreal documentation
+
 - [Unreal Engine Volume 1](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Unreal Engine Volume 2](https://www.unrealengine.com/en-US/vpfieldguide) - PDF - TTS TCB
 - [Virtual Production Documentation](https://github.com/petehow/vp-docs) How to correctly setup the Academy of Interactive Entertainment Virtual Production suite.
+
+### Unreal Engine
+
+- [Film and Television Learning Path](https://learn.unrealengine.com/home/LearningPath/119041?r=False&ts=637835166478748875) eLearn
+- [Independent Filmmaking with Unreal Engine](https://learn.unrealengine.com/?C=3748535) eLearn
 - [Content Library](https://learn.unrealengine.com/home/library)
-- [Independent Filmmaking with Unreal Engine](http://learn.unrealengine.com/?C=3748535) Unreal Engine eLearn
+- [Unreal Engine Creators License](https://www.unrealengine.com/en-US/eula/creators)
+- [In Camera VFX](https://docs.unrealengine.com/4.27/en-US/WorkingWithMedia/IntegratingMedia/InCameraVFX/InCameraVFXQuickStart/)Unreal documentation
 
 ### ARRI Amiria
+
 - [Arri look library](https://microsites.arri.com/looklibrary)
 - [Frame Line & Lens Illumination Tool](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/frame-line-lens-illumination-tool)
 - [Formats and data rates](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/formats-and-data-rate-calculator)
 - [LUT generator](https://www.arri.com/en/learn-help/learn-help-camera-system/tools/lut-generator)
 
 ### Blackmagic Pro
-
 
 ### Accessibility
 
@@ -123,10 +131,11 @@
 - [SBS Short Documentaries](https://www.sbs.com.au/news/the-feed/topic/short-docs)
 
 ### Film misc
-- [stingalleman/awesome-audiovisual: Curated list of audiovisual projects](https://github.com/stingalleman/awesome-audiovisual#readme)
+
+- [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme)Curated list of audiovisual projects
 - [Pixar Open Timeline](https://github.com/PixarAnimationStudios/OpenTimelineIO)
 - [Awesome Video](https://github.com/krzemienski/awesome-video) An awesome list with resources that mostly relate to online video
-- [10 Tips on Turning Your Short Film Into a Feature – IndieWire](https://www.google.com.au/amp/s/www.indiewire.com/2014/09/10-tips-on-turning-your-short-film-into-a-feature-22200/amp/) Article
+- [10 Tips on Turning Your Short Film Into a Feature](https://www.google.com.au/amp/s/www.indiewire.com/2014/09/10-tips-on-turning-your-short-film-into-a-feature-22200/amp/) IndieWire Article
 - [Flying Arts Alliance - Art for Life](https://flyingarts.org.au/) Insurance
 
 ## General
@@ -179,6 +188,7 @@
 - [Datasets – Google Research](https://research.google/tools/datasets/)
 
 ### Artists/Works of interest
+
 - [Ceremor - Twitch](https://www.twitch.tv/ceremor)
 - [Angellis Taliuu](https://angellistaliuu.bandcamp.com/)
 - [About Me :: Lynette McClenaghan](http://www.lynettemcclenaghanauthor.com/about-me-lynette/)
