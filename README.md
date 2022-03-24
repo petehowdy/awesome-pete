@@ -77,6 +77,7 @@ https://github.com/CineEncoder/cine-encoder
 ### Community
 
 - [Ausfilm Membership | Ausfilm](https://www.ausfilm.com.au/membership/)
+- [RMITV](https://www.rmitv.org/)
 
 ### Events
 
