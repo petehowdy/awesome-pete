@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=3mZuJAWH1Ow
 https://www.youtube.com/watch?v=YjlsP9KDjcs
 https://www.youtube.com/watch?v=0yPcJD7RVuY
 
+https://github.com/matheowis/HDRI-to-CubeMap
+https://github.com/awawa-dev/HyperHDR
+https://github.com/CineEncoder/cine-encoder
 
 ## Contents
 
