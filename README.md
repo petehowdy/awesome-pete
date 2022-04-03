@@ -16,7 +16,6 @@
 - [ ] Metadata check
 - [ ] Properly credit sources and update license
 - [ ] Publish
-https://myaie-my.sharepoint.com/:v:/g/personal/s214899_students_aie_edu_au/EZDMFg8jIOhHsJcnfUIELccBjiRyEsvnNB21FzySnO45vA?e=Q8tFRY
 
 Catalogue
 https://www.youtube.com/watch?v=3mZuJAWH1Ow
@@ -26,6 +25,8 @@ https://www.youtube.com/watch?v=0yPcJD7RVuY
 https://github.com/matheowis/HDRI-to-CubeMap
 https://github.com/awawa-dev/HyperHDR
 https://github.com/CineEncoder/cine-encoder
+
+https://www.youtube.com/watch?v=8eDsvKwM40U
 
 ## Contents
 
